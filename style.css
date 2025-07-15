@@ -24,7 +24,13 @@ p {
 .id {
     color: greenyellow;
     }
-    ol{
-        color: orange
+    
+ol {
+    color: orange
+    }
+
+ul {
+    color: aliceblue;
+    background-color: bisque;
     }
 

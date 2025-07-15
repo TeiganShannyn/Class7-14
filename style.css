@@ -1,8 +1,27 @@
-p {
-    color: blue 
+h1 {
+    color: purple; 
+    background-color: whitesmoke; 
+    font-size: 50px;
+    }
 
-}
+h2 {
+    color: blue; 
+    background-color: whitesmoke;
+    font-size: 25px;
+    }
+
+h3 {
+    color: red;
+    background-color: whitesmoke;
+    font-size: 15px;
+    }
+
+p {
+  color: blue 
+  }
+
+
 .id {
     color: greenyellow;
-}
+    }
 
